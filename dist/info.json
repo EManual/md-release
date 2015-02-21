@@ -2,6 +2,7 @@
     "version_name":"2.0.0", 
     "version_code":7,
     "download_url":"http:www.iemanual.com/md-release/dist/emanual.apk", 
+    "update_time":"2015-02-28",
     "change_log":[
       {"content":"fix xxxx"},
       {"content":"fix yyyy"}
