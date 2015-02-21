@@ -1,7 +1,7 @@
 md-release
 ---------
 
-The newsfeeds module.
+The release module.
 
 ### Draft 
 
