@@ -1,10 +1,14 @@
 {
     "version_name":"2.0.0", 
-    "version_code":7,
-    "download_url":"http:www.iemanual.com/md-release/dist/emanual.apk", 
+    "version_code":8,
+    "download_url":"http://emanual.github.io/md-release/dist/EManual.apk", 
     "update_time":"2015-02-28",
     "change_log":[
-      {"content":"fix xxxx"},
-      {"content":"fix yyyy"}
+      {"content":"全新UI"},
+      {"content":"新增更多模块,按需下载"},
+      {"content":"新增用户反馈"},
+      {"content":"新增用户行为统计"},
+      {"content":"改进文章分享"},
+      {"content":"移除文章收藏"}
     ]
 }
