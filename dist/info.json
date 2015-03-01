@@ -1,10 +1,10 @@
 {
-    "version_name":"2.0.0", 
-    "version_code":8,
+    "version_name":"2.0.1", 
+    "version_code":9,
     "download_url":"http://emanual.github.io/md-release/dist/EManual.apk", 
-    "update_time":"2015-02-28",
+    "update_time":"2015-03-01",
     "change_log":[
-      {"content":"全新UI"},
+      {"content":"全新UI,针对Android 4.4 以上优化UI"},
       {"content":"新增更多模块,按需下载"},
       {"content":"新增用户反馈"},
       {"content":"新增用户行为统计"},
