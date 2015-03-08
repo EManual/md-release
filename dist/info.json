@@ -3,6 +3,7 @@
     "version_code":9,
     "download_url":"http://emanual.github.io/md-release/dist/EManual.apk", 
     "update_time":"2015-03-01",
+    "size":"2.3 MB",
     "change_log":[
       {"content":"全新UI,针对Android 4.4 以上优化UI"},
       {"content":"新增更多模块,按需下载"},
