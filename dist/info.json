@@ -1,15 +1,15 @@
 {
-    "version_name":"2.0.1", 
-    "version_code":9,
+    "version_name":"2.1.0", 
+    "version_code":12,
     "download_url":"http://emanual.github.io/md-release/dist/EManual.apk", 
-    "update_time":"2015-03-01",
+    "update_time":"2015-03-25",
     "size":"2.3 MB",
     "change_log":[
-      {"content":"全新UI,针对Android 4.4 以上优化UI"},
-      {"content":"新增更多模块,按需下载"},
-      {"content":"新增用户反馈"},
-      {"content":"新增用户行为统计"},
-      {"content":"改进文章分享"},
-      {"content":"移除文章收藏"}
+      {"content":"去除广告条"},
+      {"content":"修复部分机型下载文档后闪退"},
+      {"content":"修复部分机型查看文档时闪退"},
+      {"content":"优化无网络时的提示"},
+      {"content":"优化更新机制"},
+      {"content":"移增:捐助作者"}
     ]
 }
