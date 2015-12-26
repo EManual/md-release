@@ -5,13 +5,8 @@
     "update_time":"2015-03-25",
     "size":"2.3 MB",
     "change_log":[
-      {"content":"去除广告条"},
-      {"content":"修复某些网络下被劫持导致应用崩溃"},
-      {"content":"修复部分机型下载文档后闪退"},
-      {"content":"修复部分机型下载文档后闪退"},
-      {"content":"修复部分机型查看文档时闪退"},
-      {"content":"优化无网络时的提示"},
-      {"content":"优化更新机制"},
-      {"content":"移增:捐助作者"}
+      {"content":"新增Javascript、C模块"},
+      {"content":"修复部分教程对代码的错误渲染"},
+      {"content":"修复首页进度条可能的显示错误"}
     ]
 }
