@@ -1,12 +1,12 @@
 {
-    "version_name":"2.1.1", 
-    "version_code":13,
+    "version_name":"2.3.0", 
+    "version_code":15,
     "download_url":"http://emanual.github.io/md-release/dist/EManual.apk", 
-    "update_time":"2015-03-25",
-    "size":"2.3 MB",
+    "update_time":"2016-01-03",
+    "size":"3.0 MB",
     "change_log":[
-      {"content":"新增Javascript、C模块"},
-      {"content":"修复部分教程对代码的错误渲染"},
-      {"content":"修复首页进度条可能的显示错误"}
+      {"content":"新增Angular/Scala/Http2"},
+      {"content":"支持检查文档更新"},
+      {"content":"修复线条无显示"}
     ]
 }
